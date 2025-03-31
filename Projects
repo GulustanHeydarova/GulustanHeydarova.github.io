@@ -1,0 +1,51 @@
+---
+title: "Projects"
+permalink: /projects/
+layout: single
+author_profile: true
+---
+
+## 🔧 Gas Stabilization Plant Modeling & Optimization (2024)
+**Institution:** Cracow University of Technology, Poland  
+**Tool Used:** CHEMCAD  
+
+- Simulated a full gas stabilization unit to condition natural gas condensate by removing light hydrocarbons and water.
+- Ensured dew point control below 21°F to prevent hydrate formation and pipeline blockages.
+- Designed and analyzed a separation system involving a cooler, two-phase separator, stabilizer tower, and condenser.
+- Optimized propane content in the stabilized condensate to below 1 mol% using flash separators and tower internals.
+- Applied the Soave–Redlich–Kwong (SRK) equation of state to ensure accurate vapor-liquid equilibrium predictions.
+- Evaluated condenser and heat exchanger duties to ensure energy efficiency and process reliability.
+
+---
+
+## 💠 Extractive Distillation for Ethanol Purification (2024)
+**Institution:** Cracow University of Technology, Poland  
+**Tool Used:** CHEMCAD  
+
+- Designed a three-column extractive distillation system for purifying ethanol to 99.5 wt% from a 12 mol% ethanol feed.
+- Used ethylene glycol as a high-boiling separation solvent to break ethanol-water azeotrope.
+- Modeled feed configuration, recycle streams, and separation specifications for steady-state simulation.
+- Identified instability due to low glycol flow and corrected feed stream composition to stabilize the reflux ratio.
+- Applied the NRTL (Non-Random Two-Liquid) thermodynamic model for non-ideal phase behavior.
+- Conducted iterative simulation runs to optimize solvent-to-feed ratio and improve energy efficiency.
+- Final simulation achieved converged operation, stable column profiles, and target ethanol purity.
+
+---
+
+## 🧼 Optimization of BTX Removal Using Carbon Disulfide (2024)
+**Institution:** Cracow University of Technology, Poland  
+**Tool Used:** CHEMCAD  
+
+- Modeled a two-column BTX removal system using carbon disulfide (CS₂) as the solvent, aiming to purify BTX components while minimizing aromatic losses.
+- Conducted simulations with distillation, flash separation, and cooling operations using MSRK and SRK thermodynamic models.
+- Optimized process settings including temperature, vapor fraction, and contact time to improve CS₂ recovery and BTX purity.
+- Performed sensitivity analysis on cooler vapor fractions, tracking CS₂ yield, benzene loss, and recirculation mass flow behavior.
+- Identified optimal vapor fraction (~0.068) minimizing recirculation mass flow and energy use while maintaining high separation efficiency.
+- Applied Sequential Quadratic Programming (SQP) to fine-tune parameters, resulting in minimal energy consumption and stable system performance.
+
+Radiocatalysis for the Energy Transition (2024–2025)
+**Institution:** University of Lille, France  
+**Focus:** Review of heterogeneous catalysts under ionizing radiation for sustainable chemical applications  
+
+- Authored a critical literature review on radiocatalysis for clean energy applications.
+- Analyzed catalyst activation, structural modification, and surface property changes under gamma and electron beam radiation.
